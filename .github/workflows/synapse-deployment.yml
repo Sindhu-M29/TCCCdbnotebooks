@@ -1,0 +1,6 @@
+name: Synapse Deployment
+
+on:
+  push:
+    branches:
+      - main
